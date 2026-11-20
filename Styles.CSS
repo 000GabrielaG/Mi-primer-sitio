@@ -6,8 +6,8 @@
 body {
  margin: 0;
  font-family: Arial, sans-serif;
- background: #f1f5f9;
- color: #243247;
+ background: #E8D0AC;
+ color: #4A2D10;
  line-height: 1.6;
 }
 
@@ -32,7 +32,7 @@ section {
 }
 
 h2 {
- color: #1f5b8f;
+ color: #4A2D10;
 }
 
 img {
